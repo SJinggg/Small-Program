@@ -2,7 +2,7 @@
 
 A simple calculator written with python.
 
-![Calculator screenshot](/images/calculator.png)
+![Calculator screenshot](./images/calculator.png)
 
 ## Start
 
