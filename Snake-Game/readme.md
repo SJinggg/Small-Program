@@ -10,4 +10,5 @@ This snake game is written in Java.
 ./run.sh
 ```
 
-Refers to [Java-Snake-Game](https://github.com/janbodnar/Java-Snake-Game)
+## References
+This program is refering to [Java-Snake-Game](https://github.com/janbodnar/Java-Snake-Game)
