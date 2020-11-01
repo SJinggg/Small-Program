@@ -1,0 +1,3 @@
+Main-Class: com.me.snake.Snake
+Name: com/me/snake
+Specification-Title: Snake Game
