@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./index.css">
+    <title>Random Quote Generator</title>
+  </head>
+  <body>
+    <div class="app">
+      <header>Random Quote Generator</header>
+      <section class="quotes">
+        <div style="display:none;" id="loader"></div>
+        <div class="quote-text" id="quote-text">
+          Try to generate some quotes!
+        </div>
+        <small id="quote-author"></small>
+      </section>
+      <section class="controls">
+        <button type="button" id="get-quote" class="new-quote button">
+          Generate a new quote
+        </button>
+      </section>
+    </div>
+  </body>
+  <script src="./index.js"></script>
+</html>
